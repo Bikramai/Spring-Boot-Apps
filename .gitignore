@@ -1,3 +1,57 @@
+<<<<<<< HEAD
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+=======
+<<<<<<< HEAD
+# Compiled class file
+*.class
+>>>>>>> 026a1dc (Built My First Spring Home Controller)
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+<<<<<<< HEAD
+### VS Code ###
+.vscode/
+=======
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+=======
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -31,3 +85,5 @@ build/
 
 ### VS Code ###
 .vscode/
+>>>>>>> 6c2aca2 (Created Spring-boot-project and Built My First Spring Home Controller)
+>>>>>>> 026a1dc (Built My First Spring Home Controller)
